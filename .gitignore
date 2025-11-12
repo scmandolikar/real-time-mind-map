@@ -1,0 +1,9 @@
+# Dependencies
+/client/node_modules
+/server/node_modules
+
+# Build output
+/client/dist
+
+# System files
+.DS_Store
